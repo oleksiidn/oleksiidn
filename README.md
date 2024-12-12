@@ -8,6 +8,11 @@
     <img alt="AWS Certified Cloud Practitioner" height="150px" width="150px" src="images/aws-cp.png"/>
   </a>
 </p>
+<p>
+  <a href="https://academy.x-road.global/courses/x-road-fundamentals" target="_blank">
+    <img alt="X-Road Security Server Administrator" height="100px" width="150px" src="images/x-road-cert.jpeg"/>
+  </a>
+</p>
 
 ## Me in the WWW
 
@@ -21,7 +26,7 @@
 
 ### 📊 My Github Stats
 
-| ![Oleksii's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleksiidn&show_icons=true&theme=city_lights) | ![Christian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oleksiidn&theme=city-lights) |
+| ![Oleksii's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleksiidn&show_icons=true&theme=city_lights) | ![Oleksii's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oleksiidn&theme=city-lights) |
 |:--------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
 
 
